@@ -1,0 +1,14 @@
+  .icon-body  {
+  cursor: pointer;
+  background-color: #b6bec7;
+  color: #ff7800;
+  border: white;
+  outline: white;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  outline: none;
+}
+  .skill_text {
+    padding-left: 29px;
+}
